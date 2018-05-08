@@ -1,0 +1,37 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Globen",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/4/46/Stockholm_metro_symbol.svg",
+      "url": "http://www.superandy.se/wp-content/uploads/2012/05/globen.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Gullmarsplan",
+      "icon":"https://upload.wikimedia.org/wikipedia/commons/4/46/Stockholm_metro_symbol.svg",
+      "url": "https://www.stockholmlive.com/assets/img/Annexet_fasad_250x250.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Blåsut",
+      "icon":"https://upload.wikimedia.org/wikipedia/commons/4/46/Stockholm_metro_symbol.svg",
+      "url": "https://www.stockholmlive.com/assets/img/Hovet_fasadskylt_500x500.jpg"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
