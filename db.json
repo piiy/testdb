@@ -2,19 +2,22 @@
   "posts": [
     {
       "id": 1,
-      "title": "Globen",
+      "transport_type": 1, 
+      "name": "Globen",
       "icon": "https://upload.wikimedia.org/wikipedia/commons/4/46/Stockholm_metro_symbol.svg",
       "url": "http://www.superandy.se/wp-content/uploads/2012/05/globen.jpg"
     },
     {
       "id": 2,
-      "title": "Gullmarsplan",
+      "transport_type": 1, 
+      "name": "Gullmarsplan",
       "icon":"https://upload.wikimedia.org/wikipedia/commons/4/46/Stockholm_metro_symbol.svg",
       "url": "https://www.stockholmlive.com/assets/img/Annexet_fasad_250x250.jpg"
     },
     {
       "id": 3,
-      "title": "Blåsut",
+      "transport_type": 1, 
+      "name": "Blåsut",
       "icon":"https://upload.wikimedia.org/wikipedia/commons/4/46/Stockholm_metro_symbol.svg",
       "url": "https://www.stockholmlive.com/assets/img/Hovet_fasadskylt_500x500.jpg"
     }
