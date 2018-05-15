@@ -5,21 +5,33 @@
       "transport_type": 1, 
       "name": "Globen",
       "icon": "https://upload.wikimedia.org/wikipedia/commons/4/46/Stockholm_metro_symbol.svg",
-      "url": "http://www.superandy.se/wp-content/uploads/2012/05/globen.jpg"
+      "crowd-indicator": "https://res.cloudinary.com/pvt-group09/image/upload/v1525786167/sensor-red.png",
+      "distance": "200 m",
+      "route-color-hex": "#f64fd5",
+      "route-color": "Purple",
+      "time": "5 min"
     },
     {
       "id": 2,
       "transport_type": 1, 
       "name": "Gullmarsplan",
       "icon":"https://upload.wikimedia.org/wikipedia/commons/4/46/Stockholm_metro_symbol.svg",
-      "url": "https://www.stockholmlive.com/assets/img/Annexet_fasad_250x250.jpg"
+      "crowd-indicator": "https://res.cloudinary.com/pvt-group09/image/upload/v1525786167/sensor-yellow.png ",
+      "distance": "800 m",
+      "route-color-hex": "#2ac6dc",
+      "route-color": "Turquiose",
+      "time": "6 min"
     },
     {
       "id": 3,
       "transport_type": 1, 
       "name": "Blåsut",
       "icon":"https://upload.wikimedia.org/wikipedia/commons/4/46/Stockholm_metro_symbol.svg",
-      "url": "https://www.stockholmlive.com/assets/img/Hovet_fasadskylt_500x500.jpg"
+      "crowd-indicator": "https://res.cloudinary.com/pvt-group09/image/upload/v1525786167/sensor-green.png ",
+      "distance": "900 m",
+      "route-color-hex": "#5bed7b",
+      "route-color": "Green",
+      "time": "7 min"
     }
   ],
   "comments": [
